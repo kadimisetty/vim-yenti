@@ -1,0 +1,67 @@
+*yento.txt*	    For Vim version 7.3	
+*yento*
+
+
+. . ,-. ,-. |- . 
+| | |-' | | |  | 
+`-| `-' ' ' `' ' 
+ /|              
+`-'              
+
+Grab the helpfile for a plugin that's not yet
+installed.
+
+
+Note: Depends on python 2.7+ and Vim 7.3+ compiled
+with the +python feature.
+
+=============================================================================
+CONTENTS
+
+    0. Install..............................|yenti-install|
+    1. License..............................|yenti-license|
+    2. Usage................................|yenti-usage|
+    3. Bugs.................................|yenti-bugs|
+    4. Contributing.........................|yenti-contributing|
+    5. Requirements.........................|yenti-requirements|
+
+=============================================================================
+0. Install                              *yenti-install*
+
+You may use Vim plugin managers such as Vundle and
+Pathogen to install yenti.
+
+
+=============================================================================
+1. License                              *yenti-license*
+
+GNU LESSER GENERAL PUBLIC LICENSE, Version 3, 29
+June 2007
+
+=============================================================================
+2. Usage                                *yenti-usage*
+
+Hasn't been decided yet. Working on it.
+
+=============================================================================
+3. Bugs                                 *yenti-bugs*
+
+If there are any bugs, please
+report them at the issue tracker:
+https://github.com/kadimisetty/vim-yenti/issues
+
+=============================================================================
+4. Contributing                         *yenti-contributing*
+
+There's always scope for improvement. If
+you feel like adding, fork the following
+repository and send a pull request.
+https://github.com/kadimisetty/vim-yenti
+
+=============================================================================
+4. Requirements                         *yenti-requirements*
+
+This plugin requires 
+ 'nocompatible' to be set.
+
+ vim:tw=78:noet:ts=8:ft=help:norl:
