@@ -1,5 +1,5 @@
 
-function!  LoadHelpInPrevWindow(raw_help_url)
+function!  yenti#LoadHelpInPrevWindow(raw_help_url)
     let temp_file = tempname() 
     " Open temp file in a prev-window
     silent execute ":pedit! " . temp_file
