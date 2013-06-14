@@ -42,7 +42,14 @@ June 2007
 =============================================================================
 2. Usage                                *yenti-usage*
 
-Hasn't been decided yet. Working on it.
+Currently can only load a help file when supplied
+with it's raw file's URL in it's entirety.
+
+    :Yenti "https://raw.github.com/Lokaltog/vim-powerline/develop/doc/Powerline.txt"
+
+Obviously, thats not how it is intended to
+function ultimately, so hold your horses there tiger.
+
 
 =============================================================================
 3. Bugs                                 *yenti-bugs*

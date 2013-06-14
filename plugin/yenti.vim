@@ -3,4 +3,4 @@ if !has('python')
     finish
 endif
 
-command! Yenti call yenti#LoadHelpToCurrentBuffer('sjl/clam')
+command! -nargs=* Yenti call yenti#LoadHelpInPrevWindow(<f-args>)
